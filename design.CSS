@@ -1,0 +1,66 @@
+header{
+	background-color:#FFFFFF;
+	flex-wrap: wrap;
+    height:wrap;
+}
+body{
+	background-color:#FFF46D;
+}
+
+html,body{
+  margin:0;
+  padding:0;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.top-left {
+  position: absolute;
+  top: 70px;
+  left: 20px;
+  font-size: 200%;
+  color:red;
+  font-family: Arial;
+  font-weight: bold;
+}
+.top-left2{
+  position: absolute;
+  top: 120px;
+  left: 20px;
+  font-size: 200%;
+  color:red;
+  font-family: Arial;
+  font-weight: bold;
+  
+}
+.personal_image{
+  position: absolute;
+  top: 20px;
+  right:100px;	
+  border-style: double;
+  border-color:green;
+  border-width:5px;
+  
+}
+
+.button1{
+	margin-left:20px;
+	margin-top:20px;
+}
+.button2{
+	margin-left:20px;
+}
+.button3{
+	margin-right:20px;
+	margin-left:20px;
+}
+.mid_paragraph{
+	border-style:groove;
+	border-color:green;
+	margin-right:100px;
+	margin-left:100px;
+	padding: 20px;
+
+}
