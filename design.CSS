@@ -11,29 +11,29 @@ html,body{
   margin:0;
   padding:0;
 }
-.container {
-  position: relative;
-  text-align: center;
-  color: white;
+.container{
+position: relative;
+text-align: center;
+color: white;
 }
-.top-left {
-  position: absolute;
-  top: 70px;
-  left: 20px;
-  font-size: 200%;
-  color:red;
-  font-family: Arial;
-  font-weight: bold;
+.top-left{
+position: absolute;
+top: 70px; 
+left: 20px;
+font-size: 200%;
+color:red;
+font-family: Arial;
+font-weight: bold;
 }
+
 .top-left2{
-  position: absolute;
-  top: 120px;
-  left: 20px;
-  font-size: 200%;
-  color:red;
-  font-family: Arial;
-  font-weight: bold;
-  
+position: absolute;
+top: 120px; 
+left: 20px;
+font-size: 200%;
+color:red;
+font-family: Arial;
+font-weight: bold;
 }
 .personal_image{
   position: absolute;
